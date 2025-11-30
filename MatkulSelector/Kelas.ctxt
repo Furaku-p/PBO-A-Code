@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Kelas
+comment1.params=nama\ kapasitas\ jadwal\ dosen\ matkul
+comment1.target=Kelas(java.lang.String,\ int,\ java.lang.String,\ Dosen,\ MatKul)
+comment10.params=m
+comment10.target=boolean\ tambahMahasiswa(Mahasiswa)
+comment11.params=nama\ kapasitas\ jadwal\ inisialDosen\ kodeMatkul
+comment11.target=void\ tambah(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment12.params=
+comment12.target=void\ loadDefaultKelas()
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment3.params=
+comment3.target=MatKul\ getMatkul()
+comment4.params=
+comment4.target=Dosen\ getDosen()
+comment5.params=
+comment5.target=java.lang.String\ getJadwal()
+comment6.params=
+comment6.target=int\ getKapasitas()
+comment7.params=
+comment7.target=int\ getJumlahMahasiswa()
+comment8.params=
+comment8.target=java.util.ArrayList\ getMahasiswaList()
+comment9.params=
+comment9.target=java.util.ArrayList\ getDaftarKelas()
+numComments=13

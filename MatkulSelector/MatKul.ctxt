@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MatKul
+comment1.params=kode\ nama\ sks
+comment1.target=MatKul(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment3.params=
+comment3.target=java.lang.String\ getKode()
+comment4.params=
+comment4.target=int\ getSks()
+comment5.params=kode
+comment5.target=MatKul\ get(java.lang.String)
+comment6.params=
+comment6.target=java.util.HashMap\ getAll()
+numComments=7

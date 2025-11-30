@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Mahasiswa
+comment1.params=nama\ nrp
+comment1.target=Mahasiswa(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment3.params=
+comment3.target=java.lang.String\ getNrp()
+comment4.params=
+comment4.target=java.util.ArrayList\ getKelasDiambil()
+comment5.params=k
+comment5.target=void\ addKelas(Kelas)
+comment6.params=m
+comment6.target=void\ addMahasiswa(Mahasiswa)
+comment7.params=kodeMatkul
+comment7.target=boolean\ sudahAmbilMatkul(java.lang.String)
+comment8.params=nrp
+comment8.target=Mahasiswa\ find(java.lang.String)
+numComments=9
