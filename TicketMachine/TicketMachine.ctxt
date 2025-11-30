@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TicketMachine
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TicketMachine\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cost
+comment1.target=TicketMachine(int)
+comment1.text=\r\n\ Bikin\ Mesin\ Cetak\ Tiket\ Dengan\ Harga\ Yang\ Ditentukan\r\n
+comment2.params=
+comment2.target=int\ getPrice()
+comment2.text=\r\n\ Return\ Harga\ Tiket\r\n
+comment3.params=
+comment3.target=int\ getBalance()
+comment3.text=\r\n\ Return\ Jumlah\ Uang\ Untuk\ Tiket\ Selanjutnya\r\n
+comment4.params=amount
+comment4.target=void\ insertMoney(int)
+comment4.text=\r\n\ Cek\ Jumlah\ Uang\ Yang\ Diinput\ Costumer\ Dalam\ Sen.\r\n
+comment5.params=
+comment5.target=void\ printTicket()
+comment5.text=\r\n\ Jika\ Uang\ Yang\ Dimasukkan\ Udah\ Cukup\ ->\ Print\ Tiket\r\n\ Lalu\ kurangi\ balance\ dengan\ harga\ tiket\r\n\ Kalo\ kurang\ ->\ Print\ Error\r\n
+comment6.params=
+comment6.target=int\ refundBalance()
+comment6.text=\r\n\ Balikan\ Uang\ Kembalian\r\n
+numComments=7
