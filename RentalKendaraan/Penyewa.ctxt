@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Penyewa
+comment1.params=nama\ kendaraan\ lamaSewa
+comment1.target=Penyewa(java.lang.String,\ Kendaraan,\ int)
+comment2.params=
+comment2.target=double\ totalBiaya()
+comment3.params=
+comment3.target=java.lang.String\ getInfoPenyewa()
+comment4.params=
+comment4.target=java.lang.String\ getNama()
+comment5.params=
+comment5.target=Kendaraan\ getKendaraan()
+comment6.params=
+comment6.target=int\ getLamaSewa()
+numComments=7
