@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Field
+comment1.params=depth\ width
+comment1.target=Field(int,\ int)
+comment2.params=
+comment2.target=int\ getDepth()
+comment3.params=
+comment3.target=int\ getWidth()
+comment4.params=location
+comment4.target=void\ clear(Location)
+comment5.params=object\ location
+comment5.target=void\ place(java.lang.Object,\ Location)
+comment6.params=location
+comment6.target=java.lang.Object\ getObjectAt(Location)
+comment7.params=location
+comment7.target=Location\ freeAdjacentLocation(Location)
+comment8.params=location
+comment8.target=java.util.List\ adjacentLocations(Location)
+comment9.params=
+comment9.target=void\ print2d()
+numComments=10
