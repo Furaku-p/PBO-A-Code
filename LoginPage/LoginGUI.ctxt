@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LoginGUI
+comment1.params=
+comment1.target=LoginGUI()
+comment2.params=
+comment2.target=void\ createAccounts()
+comment3.params=
+comment3.target=void\ initComponents()
+comment4.params=
+comment4.target=void\ loginAttempt()
+comment5.params=username
+comment5.target=void\ openDashboard(java.lang.String)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
