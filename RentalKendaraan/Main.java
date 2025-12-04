@@ -73,6 +73,9 @@ public class Main {
                                 System.out.println((i+1)+". "+daftarMobil.get(i).getInfo());
                             System.out.print("Pilih nomor mobil: ");
                             int mPil = input.nextInt(); input.nextLine();
+                            if(mPil < 1 && mPil > daftarMobil.size()) {
+                                System.out.print("Nomor Mobil Tidak Terdaftar!!");
+                            }
                             System.out.print("Lama sewa (hari): ");
                             int lamaM = input.nextInt(); input.nextLine();
                             sr.tambahPenyewa(new Penyewa(nama, daftarMobil.get(mPil-1), lamaM));
@@ -84,6 +87,9 @@ public class Main {
                                 System.out.println((i+1)+". "+daftarMotor.get(i).getInfo());
                             System.out.print("Pilih nomor motor: ");
                             int moPil = input.nextInt(); input.nextLine();
+                            if(moPil < 1 && moPil > daftarMotor.size()) {
+                                System.out.print("Nomor Motor Tidak Terdaftar!!");
+                            }
                             System.out.print("Lama sewa (hari): ");
                             int lamaMo = input.nextInt(); input.nextLine();
                             sr.tambahPenyewa(new Penyewa(nama, daftarMotor.get(moPil-1), lamaMo));
@@ -95,6 +101,9 @@ public class Main {
                                 System.out.println((i+1)+". "+daftarSepeda.get(i).getInfo());
                             System.out.print("Pilih nomor sepeda: ");
                             int sPil = input.nextInt(); input.nextLine();
+                            if(sPil < 1 && sPil > daftarSepeda.size()) {
+                                System.out.print("Nomor Sepeda Tidak Terdaftar!!");
+                            }
                             System.out.print("Lama sewa (hari): ");
                             int lamaS = input.nextInt(); input.nextLine();
                             sr.tambahPenyewa(new Penyewa(nama, daftarSepeda.get(sPil-1), lamaS));
