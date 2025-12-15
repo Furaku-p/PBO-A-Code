@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SistemPerpustakaan
+comment1.params=judul\ penulis
+comment1.target=void\ tambahBuku(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.util.ArrayList\ ambilSemuaBuku()
+comment3.params=
+comment3.target=java.util.ArrayList\ ambilBukuTersedia()
+comment4.params=id\ judulBaru\ penulisBaru
+comment4.target=void\ editBuku(int,\ java.lang.String,\ java.lang.String)
+comment5.params=id
+comment5.target=void\ hapusBuku(int)
+comment6.params=idBuku\ namaPeminjam
+comment6.target=void\ pinjamBuku(int,\ java.lang.String)
+comment7.params=idBuku
+comment7.target=void\ kembalikanBuku(int)
+comment8.params=list\ judul
+comment8.target=void\ tampilkanList(java.util.ArrayList,\ java.lang.String)
+numComments=9

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Buku
+comment1.params=id\ judul\ penulis\ dipinjam
+comment1.target=Buku(int,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=boolean\ isDipinjam()
+comment4.params=
+comment4.target=java.lang.String\ getInfo()
+numComments=5
